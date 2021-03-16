@@ -1,0 +1,21 @@
+.header-text {
+  display: block;
+  margin: 0 auto;
+  width: 700px;
+  text-align: center;
+}
+
+.header-text > .title-text {
+  font-size: 40px;
+  font-weight: 200;
+}
+
+.header-text > .subtitle-text {
+  font-size: 38px;
+  margin-bottom: 15px;
+}
+
+.header-text > .paragraph-text {
+  font-size: 20px;
+  opacity: 45%;
+}
