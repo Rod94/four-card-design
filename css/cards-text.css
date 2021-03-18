@@ -11,8 +11,19 @@
 .card {
   width: 400px;
   background-color: #FFFFFF;
-  height: 200px;
-  border-radius: 20px;
+  height: 300px;
+  border-radius: 15px;
+  padding: 40px 30px 40px;
+  font-size: 15px;
+}
+
+.card > .title-card {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.card > .subtitle-card {
+  opacity: 35%;
 }
 
 .-calc {
