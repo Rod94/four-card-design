@@ -35,18 +35,22 @@
 .-calc {
   grid-area: calc;
   margin-top: 100px;
+  border-top: 5px groove hsl(212, 86%, 64%);
 }
 
 .-karma {
   grid-area: karma;
   margin-top: -50px;
+  border-top: 5px groove hsl(34, 97%, 64%);
 }
 
 .-team {
   grid-area: team;
+  border-top: 5px groove hsl(0, 78%, 62%);
 }
 
 .-super {
   grid-area: superv;
   margin-top: 100px;
+  border-top: 5px groove hsl(180, 62%, 55%);
 }
