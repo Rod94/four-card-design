@@ -15,6 +15,7 @@
   border-radius: 15px;
   padding: 40px 30px 40px;
   font-size: 15px;
+  box-shadow: 2px 2px 2px 0.5px hsl(234, 12%, 34%);
 }
 
 .card > .title-card {
